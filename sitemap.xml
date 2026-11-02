@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://IvanChapi.github.io/guia-java/</loc>
+         <lastmod>2026-11-02</lastmod>
+    </url>
+    <url>
+         <loc>https://IvanChapi.github.io/guia-java/recursos/</loc>
+         <lastmod>2026-11-02</lastmod>
+    </url>
+    <url>
+         <loc>https://IvanChapi.github.io/guia-java/fonaments/poo/</loc>
+         <lastmod>2026-11-02</lastmod>
+    </url>
+    <url>
+         <loc>https://IvanChapi.github.io/guia-java/fonaments/sintaxi/</loc>
+         <lastmod>2026-11-02</lastmod>
+    </url>
+    <url>
+         <loc>https://IvanChapi.github.io/guia-java/introduccio/instalacio/</loc>
+         <lastmod>2026-11-02</lastmod>
+    </url>
+    <url>
+         <loc>https://IvanChapi.github.io/guia-java/introduccio/que-es-java/</loc>
+         <lastmod>2026-11-02</lastmod>
+    </url>
+</urlset>

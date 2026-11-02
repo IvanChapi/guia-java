@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 330" width="560" height="330" font-family="Arial, sans-serif">
+  <rect x="10" y="10" width="540" height="310" rx="14" fill="#fff3e0" stroke="#f57c00" stroke-width="3"/>
+  <text x="30" y="40" font-size="20" font-weight="bold" fill="#e65100">JDK (Java Development Kit)</text>
+  <text x="30" y="62" font-size="14" fill="#444">Compilador (javac), depurador, eines...</text>
+  <rect x="40" y="80" width="480" height="215" rx="12" fill="#ffe0b2" stroke="#fb8c00" stroke-width="3"/>
+  <text x="60" y="110" font-size="18" font-weight="bold" fill="#e65100">JRE (Java Runtime Environment)</text>
+  <text x="60" y="132" font-size="14" fill="#444">Biblioteques estàndard + entorn d'execució</text>
+  <rect x="70" y="150" width="420" height="125" rx="10" fill="#fff" stroke="#ef6c00" stroke-width="3"/>
+  <text x="90" y="182" font-size="18" font-weight="bold" fill="#e65100">JVM (Java Virtual Machine)</text>
+  <text x="90" y="208" font-size="14" fill="#444">Executa el bytecode (.class) en qualsevol sistema</text>
+  <text x="90" y="232" font-size="14" fill="#444">Windows · Linux · macOS</text>
+</svg>
