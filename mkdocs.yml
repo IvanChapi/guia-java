@@ -1,10 +1,9 @@
 site_name: Guia de Java
 site_description: Guia pràctica per a començar a programar en Java, des de la instal·lació fins a la programació orientada a objectes.
-site_author: El teu nom
-# Canvia estes URL pel teu usuari de GitHub
-site_url: https://EL_TEU_USUARI.github.io/guia-java/
-repo_url: https://github.com/EL_TEU_USUARI/guia-java
-repo_name: EL_TEU_USUARI/guia-java
+site_author: Ivan Chapí Muedra
+site_url: https://IvanChapi.github.io/guia-java/
+repo_url: https://github.com/IvanChapi/guia-java
+repo_name: IvanChapi/guia-java
 copyright: Projecte Intermodular - Pràctica 3 (MkDocs)
 
 theme:
@@ -63,4 +62,4 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/EL_TEU_USUARI
+      link: https://github.com/IvanChapi
