@@ -1,0 +1,66 @@
+site_name: Guia de Java
+site_description: Guia pràctica per a començar a programar en Java, des de la instal·lació fins a la programació orientada a objectes.
+site_author: El teu nom
+# Canvia estes URL pel teu usuari de GitHub
+site_url: https://EL_TEU_USUARI.github.io/guia-java/
+repo_url: https://github.com/EL_TEU_USUARI/guia-java
+repo_name: EL_TEU_USUARI/guia-java
+copyright: Projecte Intermodular - Pràctica 3 (MkDocs)
+
+theme:
+  name: 'material'
+  language: ca
+  logo: img/java.svg
+  favicon: img/java.svg
+  palette:
+    - scheme: default
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Mode fosc
+    - scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Mode clar
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Inici: index.md
+  - Introducció:
+      - Què és Java?: introduccio/que-es-java.md
+      - Instal·lació: introduccio/instalacio.md
+  - Fonaments:
+      - Sintaxi bàsica: fonaments/sintaxi.md
+      - Programació orientada a objectes: fonaments/poo.md
+  - Recursos: recursos.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/EL_TEU_USUARI
